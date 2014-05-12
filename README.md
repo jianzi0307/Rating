@@ -11,7 +11,13 @@ Rating ANE for IOS and Android
 	
 * 在需要评论的时候添加，例如玩家通过关卡时:
 
+```actionscript
 		if( Rating.shouldPromptForRating() ) {
 			//RateViewUtil.getInstance().promptIfNetworkAvailable();
 			RateViewUtil.getInstance().promptForRating();
 		}
+```
+
+
+
+此ANE使用
