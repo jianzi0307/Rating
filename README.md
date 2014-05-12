@@ -24,5 +24,6 @@ if( Rating.shouldPromptForRating() ) {
 
 >*ANE-Wizard*
 > https://github.com/freshplanet/ANE-Wizard
+
 >*Rating-ANE*
 > https://github.com/digicrafts/Rating-ANE
