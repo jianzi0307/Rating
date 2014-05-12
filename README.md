@@ -12,7 +12,7 @@ Rating ANE for IOS and Android
 </extensions>
 ```
 
-* 在程序启动时间添加:
+* 在程序启动时添加:
 
 ```actionscript
 Rating.daysUntilPrompt=0;
