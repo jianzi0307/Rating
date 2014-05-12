@@ -50,7 +50,7 @@ README.md
 
 > https://github.com/nicklockwood/iRate
 
-Rating 修改了 Rating-ANE 的一个bug：
+Rating 修改了 Rating-ANE 的一个bug 和 多国语言本地化问题：
 
 ```
 ld: file not found: %ADT_ENV_VAR_XX%
