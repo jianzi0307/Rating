@@ -23,7 +23,17 @@ if( Rating.shouldPromptForRating() ) {
 * 感谢
 
 >*ANE-Wizard*
+
 > https://github.com/freshplanet/ANE-Wizard
 
 >*Rating-ANE*
+
 > https://github.com/digicrafts/Rating-ANE
+
+Rating 修改了 Rating-ANE 的一个bug：
+
+```
+ld: file not found: %ADT_ENV_VAR_XX%
+Compilation failed while executing : ld64
+```
+https://github.com/digicrafts/Rating-ANE/issues/2
