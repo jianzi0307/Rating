@@ -3,6 +3,15 @@ Rating
 
 Rating ANE for IOS and Android
 
+* 在XXX-app.xml添加扩展依赖
+ 
+```xml
+<extensions>
+	...
+	<extensionID>com.alanogames.ane.Rating</extensionID>
+</extensions>
+```
+
 * 在程序启动时间添加:
 
 ```actionscript
@@ -22,13 +31,17 @@ if( Rating.shouldPromptForRating() ) {
 
 * 感谢
 
->*ANE-Wizard*
+> **ANE-Wizard**
 
 > https://github.com/freshplanet/ANE-Wizard
 
->*Rating-ANE*
+> **Rating-ANE**
 
 > https://github.com/digicrafts/Rating-ANE
+
+> **iRate**
+
+> https://github.com/nicklockwood/iRate
 
 Rating 修改了 Rating-ANE 的一个bug：
 
