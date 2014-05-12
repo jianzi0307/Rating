@@ -19,7 +19,9 @@ if( Rating.shouldPromptForRating() ) {
 	RateViewUtil.getInstance().promptForRating();
 }
 ```
+
 * 感谢
+
 >*ANE-Wizard*
 > https://github.com/freshplanet/ANE-Wizard
 >*Rating-ANE*
