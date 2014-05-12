@@ -29,6 +29,13 @@ if( Rating.shouldPromptForRating() ) {
 }
 ```
 
+* 详细用法参考：
+
+```
+https://github.com/nicklockwood/iRate
+README.md
+```
+
 * 感谢
 
 > **ANE-Wizard**
