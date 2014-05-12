@@ -1,0 +1,24 @@
+<extension xmlns="http://ns.adobe.com/air/extension/3.1">
+  <id>com.alanogames.ane.Rating</id>
+  <versionNumber>1</versionNumber>
+  <platforms>
+    <platform name="iPhone-ARM">
+            <applicationDeployment>
+                <nativeLibrary>libRating.a</nativeLibrary>
+                <initializer>DCRatingExtInitializer</initializer>
+                <finalizer>DCRatingExtFinalizer</finalizer>
+            </applicationDeployment>
+    </platform>
+    <platform name="Android-ARM"> 
+        <applicationDeployment> 
+            <nativeLibrary>libRating.jar</nativeLibrary> 
+            <initializer>com.alanogames.ane.Rating.RatingASExtension</initializer> 
+            <finalizer>com.alanogames.ane.Rating.RatingASExtension</finalizer> 
+        </applicationDeployment> 
+    </platform> 
+    
+    <platform name="default"> 
+        <applicationDeployment/> 
+    </platform> 
+  </platforms>
+</extension>

@@ -1,0 +1,350 @@
+TRating
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-ctbyiacqqsmrfzbtovtuvxasrdbb/Rating-Prefix.pch.pch Rating/Rating-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-cqkfmicbzgeboifatlxpfcxidplh/Rating-Prefix.pch.pch Rating/Rating-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-byxstakfeezhlofjipugitiyvmqn/Rating-Prefix.pch.pch Rating/Rating-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-bfgndrbangmlcfejfgenmcgvejar/Rating-Prefix.pch.pch Rating/Rating-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/Rating.o /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/iRate.o /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/iRate/iRate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/Rating.o /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/iRate.o /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/iRate/iRate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/libRating.a normal armv7
+cLibtool /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/libRating.a normal armv7s
+cCreateUniversalBinary /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos/libRating.a normal armv7\ armv7s
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053119F860000000000000132
+t1393663878
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c000000005348355F000000000000036B
+t1397241183
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053483560000000000000019E
+t1397241184
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000534835620000000000632990
+t1397241186
+s6498704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000534835630000000000CF7800
+t1397241187
+s13596672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000053483562000000000063A500
+t1397241186
+s6530304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000053483563000000000079C660
+t1397241187
+s7980640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005348356300000000004D7BC0
+t1397241187
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000534835630000000000152370
+t1397241187
+s1385328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000005348356300000000002CB700
+t1397241187
+s2930432
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000053483563000000000006DCD0
+t1397241187
+s449744
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000534835640000000000A90C10
+t1397241188
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000534835650000000000210E90
+t1397241189
+s2166416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000005348356600000000000417E0
+t1397241190
+s268256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000534835660000000000649DB0
+t1397241190
+s6593968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000534835660000000000186D60
+t1397241190
+s1600864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000005348356600000000001A2B00
+t1397241190
+s1714944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005348356E0000000002759920
+t1397241198
+s41261344
+
+N/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating-Prefix.pch
+c00000000536FD3950000000000000099
+t1399837589
+s153
+
+N/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating.m
+c00000000536FBFBB0000000000001C22
+t1399832507
+s7202
+
+N/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/iRate/iRate.m
+c00000000534B24560000000000009F7C
+t1397433430
+s40828
+
+N/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/Rating.LinkFileList
+c00000000536FDEB20000000000000135
+t1399840434
+s309
+
+N/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/Rating.o
+t1399840437
+s16864
+
+N/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/iRate.o
+t1399840437
+s183532
+
+N/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/libRating.a
+t1399840437
+s202584
+
+N/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/Rating.LinkFileList
+c00000000536FDEB20000000000000137
+t1399840434
+s311
+
+N/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/Rating.o
+t1399840437
+s16864
+
+N/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/iRate.o
+t1399840437
+s183964
+
+N/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/libRating.a
+t1399840437
+s203016
+
+N/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos/libRating.a
+t2
+s0
+
+N/var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-bfgndrbangmlcfejfgenmcgvejar/Rating-Prefix.pch.pch
+t1399840435
+s3190092
+
+N/var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-byxstakfeezhlofjipugitiyvmqn/Rating-Prefix.pch.pch
+t1399840435
+s3181816
+
+N/var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-cqkfmicbzgeboifatlxpfcxidplh/Rating-Prefix.pch.pch
+t1399840435
+s3189920
+
+N/var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-ctbyiacqqsmrfzbtovtuvxasrdbb/Rating-Prefix.pch.pch
+t1399840435
+s3181648
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8a5721321620b941^750543321620b941^---0#1#1#--18"Check dependencies36"391CBD3F-60DA-4308-B3F6-F95A34268906-
+
+CCompileC build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/Rating.o /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421533236.151853
+e421533237.029946
+r1
+xCompileC
+xbuild/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/Rating.o
+x/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating.m
+d/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating.h
+d/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/FlashRuntimeExtensions.h
+d/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/iRate/iRate.h
+o/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating.m:122:15: warning: unused variable 'aResult' [-Wunused-variable]
+o    FREResult aResult = FRENewObjectFromBool([[iRate sharedInstance] shouldPromptForRating], &fo);
+o              ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating.m172"CompileC build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/Rating.o Rating/Rating.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler020c27341620b941^dba707351620b941^-291"/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating.m:122:15: warning: unused variable 'aResult' [-Wunused-variable]    FREResult aResult = FRENewObjectFromBool([[iRate sharedInstance] shouldPromptForRating], &fo);              ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@25"Unused variable 'aResult'-421533237#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@110"file:///Users/jianzi0307/Documents/%E5%B7%A5%E4%BD%9C/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating.m0000000000000000^121#14#121#14#4406#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@110"file:///Users/jianzi0307/Documents/%E5%B7%A5%E4%BD%9C/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating.m0000000000000000^3761"CompileC build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/Rating.o Rating/Rating.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/sbin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/ant/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fno-objc-exceptions -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-generated-files.hmap -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-own-target-headers.hmap -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-all-target-headers.hmap -iquote /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-project-headers.hmap -iquote/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/include -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/DerivedSources/armv7 -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/DerivedSources -F/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos -include /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-ctbyiacqqsmrfzbtovtuvxasrdbb/Rating-Prefix.pch -MMD -MT dependencies -MF /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/Rating.d --serialize-diagnostics /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/Rating.dia -c /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating.m -o /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Rele36"84598D7B-B690-439B-8D9C-E63B229B3F68-
+b64C9BF24-080E-4AD0-88D5-32235B712B76
+
+CCompileC build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/iRate.o /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/iRate/iRate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421533236.152454
+e421533237.243794
+r1
+xCompileC
+xbuild/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/iRate.o
+x/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/iRate/iRate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/iRate/iRate.m
+d/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/iRate/iRate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/iRate/iRate.m176"CompileC build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/iRate.o Rating/iRate/iRate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler213b27341620b941^126a3e351620b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/jianzi0307/Documents/%E5%B7%A5%E4%BD%9C/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/iRate/iRate.m0000000000000000^3778"CompileC build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/iRate.o Rating/iRate/iRate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/sbin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/ant/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fno-objc-exceptions -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-generated-files.hmap -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-own-target-headers.hmap -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-all-target-headers.hmap -iquote /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-project-headers.hmap -iquote/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/include -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/DerivedSources/armv7 -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/DerivedSources -F/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos -fobjc-arc -include /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-cqkfmicbzgeboifatlxpfcxidplh/Rating-Prefix.pch -MMD -MT dependencies -MF /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/iRate.d --serialize-diagnostics /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/iRate.dia -c /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/iRate/iRate.m -o /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Rel36"C74DE3AD-F841-4E65-BE6E-C075ABDECE98-
+b64C9BF24-080E-4AD0-88D5-32235B712B76
+
+CCompileC build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/Rating.o /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421533236.153233
+e421533237.028311
+r1
+xCompileC
+xbuild/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/Rating.o
+x/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating.m
+d/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating.h
+d/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/FlashRuntimeExtensions.h
+d/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/iRate/iRate.h
+o/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating.m:122:15: warning: unused variable 'aResult' [-Wunused-variable]
+o    FREResult aResult = FRENewObjectFromBool([[iRate sharedInstance] shouldPromptForRating], &fo);
+o              ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating.m174"CompileC build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/Rating.o Rating/Rating.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler3b6f27341620b941^4d6707351620b941^-291"/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating.m:122:15: warning: unused variable 'aResult' [-Wunused-variable]    FREResult aResult = FRENewObjectFromBool([[iRate sharedInstance] shouldPromptForRating], &fo);              ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@25"Unused variable 'aResult'-421533237#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@110"file:///Users/jianzi0307/Documents/%E5%B7%A5%E4%BD%9C/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating.m0000000000000000^121#14#121#14#4406#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@110"file:///Users/jianzi0307/Documents/%E5%B7%A5%E4%BD%9C/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating.m0000000000000000^3768"CompileC build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/Rating.o Rating/Rating.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/sbin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/ant/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fno-objc-exceptions -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-generated-files.hmap -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-own-target-headers.hmap -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-all-target-headers.hmap -iquote /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-project-headers.hmap -iquote/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/include -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/DerivedSources/armv7s -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/DerivedSources -F/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos -include /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-byxstakfeezhlofjipugitiyvmqn/Rating-Prefix.pch -MMD -MT dependencies -MF /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/Rating.d --serialize-diagnostics /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/Rating.dia -c /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating.m -o /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Relea36"5E00A54A-BD6C-497E-8039-4E63BC31F1AA-
+b64C9BF24-080E-4AD0-88D5-32235B712B76
+
+CCompileC build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/iRate.o /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/iRate/iRate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421533236.153740
+e421533237.243817
+r1
+xCompileC
+xbuild/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/iRate.o
+x/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/iRate/iRate.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/iRate/iRate.m
+d/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/iRate/iRate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/iRate/iRate.m178"CompileC build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/iRate.o Rating/iRate/iRate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerb98c27341620b941^567d3e351620b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/jianzi0307/Documents/%E5%B7%A5%E4%BD%9C/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/iRate/iRate.m0000000000000000^3785"CompileC build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/iRate.o Rating/iRate/iRate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/sbin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/ant/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fno-objc-exceptions -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-generated-files.hmap -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-own-target-headers.hmap -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-all-target-headers.hmap -iquote /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-project-headers.hmap -iquote/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/include -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/DerivedSources/armv7s -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/DerivedSources -F/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos -fobjc-arc -include /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-bfgndrbangmlcfejfgenmcgvejar/Rating-Prefix.pch -MMD -MT dependencies -MF /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/iRate.d --serialize-diagnostics /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/iRate.dia -c /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/iRate/iRate.m -o /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Rele36"2C3E84E0-7FD8-4DF4-8E22-1ED044B6D689-
+b64C9BF24-080E-4AD0-88D5-32235B712B76
+
+CCreateUniversalBinary /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos/libRating.a normal armv7\ armv7s
+s421533237.333518
+e421533237.406772
+r1
+xCreateUniversalBinary
+x/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos/libRating.a
+xnormal
+xarmv7 armv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Create universal binary /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos/libRating.a77"CreateUniversalBinary build/Release-iphoneos/libRating.a normal armv7\ armv7sef7255351620b941^ee2268351620b941^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/jianzi0307/Documents/%E5%B7%A5%E4%BD%9C/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos/libRating.a0034a068deffdf42^996"CreateUniversalBinary build/Release-iphoneos/libRating.a normal armv7\ armv7s    cd /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/sbin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/ant/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/libRating.a /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/libRating.a -o /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos/libRating.a36"C76D1D76-DF8B-45B1-B80E-A47CD9DDB334-
+b64C9BF24-080E-4AD0-88D5-32235B712B76
+
+CLibtool /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/libRating.a normal armv7
+s421533237.261741
+e421533237.332980
+r1
+xLibtool
+x/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/libRating.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Libtool build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/libRating.a normal armv7102"Libtool build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/libRating.a normal armv7ef1f43351620b941^564455351620b941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1538"Libtool build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/libRating.a normal armv7    cd /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/sbin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/ant/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos -filelist /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7/Rating.LinkFileList -ObjC -framework CoreMedia -framework Security -framework CoreFoundation -framework CoreLocation -framework MobileCoreServices -framework CoreVideo -framework CFNetwork -framework UIKit -framework CoreGraphics -framework OpenGLES -framework AudioToolbox -framework SystemConfiguration -framework Foundation -framework AVFoundation -framework QuartzCore -o /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/ar36"956DD28E-2DBF-4F80-842F-23B4ED8DEA19-
+b64C9BF24-080E-4AD0-88D5-32235B712B76
+
+CLibtool /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/libRating.a normal armv7s
+s421533237.262150
+e421533237.332943
+r1
+xLibtool
+x/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/libRating.a
+xnormal
+xarmv7s
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Libtool build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/libRating.a normal armv7s104"Libtool build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/libRating.a normal armv7sce3643351620b941^634155351620b941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1543"Libtool build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/libRating.a normal armv7s    cd /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/sbin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/ant/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos -filelist /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/armv7s/Rating.LinkFileList -ObjC -framework CoreMedia -framework Security -framework CoreFoundation -framework CoreLocation -framework MobileCoreServices -framework CoreVideo -framework CFNetwork -framework UIKit -framework CoreGraphics -framework OpenGLES -framework AudioToolbox -framework SystemConfiguration -framework Foundation -framework AVFoundation -framework QuartzCore -o /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Objects-normal/arm36"608C7CBA-D6D7-4FE9-AFE6-4C193794ED6C-
+b64C9BF24-080E-4AD0-88D5-32235B712B76
+
+CProcessPCH /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-bfgndrbangmlcfejfgenmcgvejar/Rating-Prefix.pch.pch Rating/Rating-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421533234.266633
+e421533236.150417
+r1
+xProcessPCH
+x/var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-bfgndrbangmlcfejfgenmcgvejar/Rating-Prefix.pch.pch
+xRating/Rating-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile Rating/Rating-Prefix.pch288"ProcessPCH /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-bfgndrbangmlcfejfgenmcgvejar/Rating-Prefix.pch.pch Rating/Rating-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerc68844321620b941^629d26341620b941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/jianzi0307/Documents/%E5%B7%A5%E4%BD%9C/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating-Prefix.pch0000000000000000^3810"ProcessPCH /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-bfgndrbangmlcfejfgenmcgvejar/Rating-Prefix.pch.pch Rating/Rating-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/sbin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/ant/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fno-objc-exceptions -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-generated-files.hmap -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-own-target-headers.hmap -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-all-target-headers.hmap -iquote /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-project-headers.hmap -iquote/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/include -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/DerivedSources/armv7s -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/DerivedSources -F/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos -fobjc-arc --serialize-diagnostics /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-bfgndrbangmlcfejfgenmcgvejar/Rating-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-bfgndrbangmlcfejfgenmcgvejar/Rating-Prefix.pch.d -c /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating-Prefix.pch -o /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-bfgndrb36"9B785AF4-2D66-4917-A053-F7A5814CFC86-
+b64C9BF24-080E-4AD0-88D5-32235B712B76
+
+CProcessPCH /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-byxstakfeezhlofjipugitiyvmqn/Rating-Prefix.pch.pch Rating/Rating-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421533234.265474
+e421533236.150408
+r1
+xProcessPCH
+x/var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-byxstakfeezhlofjipugitiyvmqn/Rating-Prefix.pch.pch
+xRating/Rating-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile Rating/Rating-Prefix.pch288"ProcessPCH /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-byxstakfeezhlofjipugitiyvmqn/Rating-Prefix.pch.pch Rating/Rating-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerc52044321620b941^0f7e26341620b941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/jianzi0307/Documents/%E5%B7%A5%E4%BD%9C/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating-Prefix.pch0000000000000000^3799"ProcessPCH /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-byxstakfeezhlofjipugitiyvmqn/Rating-Prefix.pch.pch Rating/Rating-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/sbin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/ant/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fno-objc-exceptions -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-generated-files.hmap -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-own-target-headers.hmap -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-all-target-headers.hmap -iquote /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-project-headers.hmap -iquote/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/include -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/DerivedSources/armv7s -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/DerivedSources -F/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos --serialize-diagnostics /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-byxstakfeezhlofjipugitiyvmqn/Rating-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-byxstakfeezhlofjipugitiyvmqn/Rating-Prefix.pch.d -c /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating-Prefix.pch -o /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-byxstak36"8B8B7A69-88DC-4895-B089-291AB04613F8-
+b64C9BF24-080E-4AD0-88D5-32235B712B76
+
+CProcessPCH /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-cqkfmicbzgeboifatlxpfcxidplh/Rating-Prefix.pch.pch Rating/Rating-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421533234.265066
+e421533236.150425
+r1
+xProcessPCH
+x/var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-cqkfmicbzgeboifatlxpfcxidplh/Rating-Prefix.pch.pch
+xRating/Rating-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile Rating/Rating-Prefix.pch287"ProcessPCH /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-cqkfmicbzgeboifatlxpfcxidplh/Rating-Prefix.pch.pch Rating/Rating-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler831444321620b941^cf6526341620b941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/jianzi0307/Documents/%E5%B7%A5%E4%BD%9C/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating-Prefix.pch0000000000000000^3807"ProcessPCH /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-cqkfmicbzgeboifatlxpfcxidplh/Rating-Prefix.pch.pch Rating/Rating-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/sbin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/ant/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fno-objc-exceptions -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-generated-files.hmap -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-own-target-headers.hmap -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-all-target-headers.hmap -iquote /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-project-headers.hmap -iquote/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/include -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/DerivedSources/armv7 -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/DerivedSources -F/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos -fobjc-arc --serialize-diagnostics /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-cqkfmicbzgeboifatlxpfcxidplh/Rating-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-cqkfmicbzgeboifatlxpfcxidplh/Rating-Prefix.pch.d -c /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating-Prefix.pch -o /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-cqkfmic36"1569FCE4-1E4C-4ABF-B4F2-5F3AF5C353D9-
+b64C9BF24-080E-4AD0-88D5-32235B712B76
+
+CProcessPCH /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-ctbyiacqqsmrfzbtovtuvxasrdbb/Rating-Prefix.pch.pch Rating/Rating-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421533234.264792
+e421533236.150402
+r1
+xProcessPCH
+x/var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-ctbyiacqqsmrfzbtovtuvxasrdbb/Rating-Prefix.pch.pch
+xRating/Rating-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile Rating/Rating-Prefix.pch287"ProcessPCH /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-ctbyiacqqsmrfzbtovtuvxasrdbb/Rating-Prefix.pch.pch Rating/Rating-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilera11144321620b941^cc7926341620b941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/jianzi0307/Documents/%E5%B7%A5%E4%BD%9C/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating-Prefix.pch0000000000000000^3796"ProcessPCH /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-ctbyiacqqsmrfzbtovtuvxasrdbb/Rating-Prefix.pch.pch Rating/Rating-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/opt/local/sbin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/ant/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fno-objc-exceptions -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-generated-files.hmap -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-own-target-headers.hmap -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-all-target-headers.hmap -iquote /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/Rating-project-headers.hmap -iquote/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/include -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/DerivedSources/armv7 -I/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Rating.build/Release-iphoneos/Rating.build/DerivedSources -F/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/build/Release-iphoneos --serialize-diagnostics /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-ctbyiacqqsmrfzbtovtuvxasrdbb/Rating-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-ctbyiacqqsmrfzbtovtuvxasrdbb/Rating-Prefix.pch.d -c /Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/Rating/Rating/Rating-Prefix.pch -o /var/folders/fj/_6x6p1xs44ng7p9jqb2qgz6r0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Rating-Prefix-ctbyiac36"10B368B9-50D7-42D0-BB75-01DC74D51504-
+b64C9BF24-080E-4AD0-88D5-32235B712B76
+
