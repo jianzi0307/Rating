@@ -43,6 +43,14 @@
 #define ANE_FUNCTION(f) FREObject (f)(FREContext ctx, void *data, uint32_t argc, FREObject argv[])
 #define MAP_FUNCTION(f, data) { (const uint8_t*)(#f), (data), &(f) }
 
+//#if __LP64__ || (TARGET_OS_EMBEDDED && !TARGET_OS_IPHONE) || TARGET_OS_WIN32 || NS_BUILD_32_LIKE_64
+//typedef long NSInteger;
+//typedef unsigned long NSUInteger;
+//#else
+//typedef int NSInteger;
+//typedef unsigned int NSUInteger;
+//#endif
+
 
 /* RateExtInitializer()
  * The extension initializer is called the first time the ActionScript side of the extension
@@ -76,6 +84,7 @@ void DCRatingContextFinalizer(FREContext ctx);
  * Users of this template are expected to change this and add similar functions
  * to be able to call the native functions in the ANE from their ActionScript code
  */
+//ANE_FUNCTION(isSupported);
 ANE_FUNCTION(shouldPromptForRating);
 ANE_FUNCTION(applicationLaunched);
 ANE_FUNCTION(logEvent);

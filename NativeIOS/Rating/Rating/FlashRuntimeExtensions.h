@@ -11,7 +11,7 @@
 // is strictly forbidden unless prior written permission is obtained from
 // Adobe Systems Incorporated.
 
-// AdobePatentID="P969"
+// AdobePatentID="P969E1"
 
 #ifdef WIN32
 	typedef unsigned __int32	uint32_t;

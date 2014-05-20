@@ -64,6 +64,10 @@ package com.alanogames.ane
 		// Public Static Function
 		/////////////////////////////////////////////////////////////////////////////////////////////////////////
 		
+		
+		public static function isSupported():Boolean {
+			return getInstance()._isSupported();
+		}
 		/**
 		 * Call this when application launched
 		 * 
@@ -417,6 +421,13 @@ package com.alanogames.ane
 		
 		// Private Functions
 		/////////////////////////////////////////////////////////////////////////////////////////////////////////
+		
+		protected function _isSupported():Boolean {
+			if( extensionContext ) {
+				return extensionContext.call("isSupported");
+			}
+			return false;
+		}
 		
 		/**
 		 * @private

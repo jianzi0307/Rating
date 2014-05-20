@@ -44,7 +44,7 @@
 	<target name="iOSCompile" depends="iOSClean">
 		<exec executable="xcodebuild" dir="." failonerror="true"> 
 			<arg line="-project ${IOS_PROJECT_PATH}"/>
-			<arg line="-sdk iphoneos"/>
+			<arg line="-sdk iphoneos7.1"/>
 			<arg line="-alltargets"/>
 			<arg line="-configuration Release"/>
 		</exec>
@@ -107,12 +107,13 @@
 			<arg value="-C"/>
 			<arg value="${BINARIES_FOLDER}/iOS"/>
 			<arg value="."/>
-			
+
 			<arg value="-platform"/>
 			<arg value="default"/>
 			<arg value="-C"/>
 			<arg value="${BINARIES_FOLDER}/Default"/>
 			<arg value="library.swf"/>
+
 		</java>
 	</target>
 

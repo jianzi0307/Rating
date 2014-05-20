@@ -16,15 +16,11 @@
 		F848731C191FEEB000808C8C /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F848731B191FEEB000808C8C /* AudioToolbox.framework */; };
 		F848731E191FEEB000808C8C /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F848731D191FEEB000808C8C /* CFNetwork.framework */; };
 		F8487320191FEEB000808C8C /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F848731F191FEEB000808C8C /* QuartzCore.framework */; };
-		F8487322191FEEB000808C8C /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8487321191FEEB000808C8C /* OpenGLES.framework */; };
-		F8487324191FEEB000808C8C /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8487323191FEEB000808C8C /* CoreLocation.framework */; };
-		F8487326191FEEB000808C8C /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8487325191FEEB000808C8C /* CoreMedia.framework */; };
-		F8487328191FEEB000808C8C /* CoreVideo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8487327191FEEB000808C8C /* CoreVideo.framework */; };
 		F848732A191FEEB000808C8C /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8487329191FEEB000808C8C /* AVFoundation.framework */; };
 		F848732C191FEEB000808C8C /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F848732B191FEEB000808C8C /* Security.framework */; };
 		F8487332191FEEB000808C8C /* Rating.m in Sources */ = {isa = PBXBuildFile; fileRef = F8487331191FEEB000808C8C /* Rating.m */; };
 		F8487351191FF58900808C8C /* iRate.h in Headers */ = {isa = PBXBuildFile; fileRef = F848734F191FF58900808C8C /* iRate.h */; };
-		F8487352191FF58900808C8C /* iRate.m in Sources */ = {isa = PBXBuildFile; fileRef = F8487350191FF58900808C8C /* iRate.m */; settings = {COMPILER_FLAGS = "-fobjc-arc"; }; };
+		F8487352191FF58900808C8C /* iRate.m in Sources */ = {isa = PBXBuildFile; fileRef = F8487350191FF58900808C8C /* iRate.m */; };
 		F8487354191FF71200808C8C /* FlashRuntimeExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = F8487353191FF71200808C8C /* FlashRuntimeExtensions.h */; };
 		F8487358192005BF00808C8C /* iRate.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F848734E191FF58900808C8C /* iRate.bundle */; };
 /* End PBXBuildFile section */
@@ -52,10 +48,6 @@
 		F848731B191FEEB000808C8C /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		F848731D191FEEB000808C8C /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
 		F848731F191FEEB000808C8C /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
-		F8487321191FEEB000808C8C /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
-		F8487323191FEEB000808C8C /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
-		F8487325191FEEB000808C8C /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
-		F8487327191FEEB000808C8C /* CoreVideo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreVideo.framework; path = System/Library/Frameworks/CoreVideo.framework; sourceTree = SDKROOT; };
 		F8487329191FEEB000808C8C /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		F848732B191FEEB000808C8C /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		F848732F191FEEB000808C8C /* Rating-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Rating-Prefix.pch"; sourceTree = "<group>"; };
@@ -73,16 +65,12 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F8487326191FEEB000808C8C /* CoreMedia.framework in Frameworks */,
 				F848732C191FEEB000808C8C /* Security.framework in Frameworks */,
 				F8487312191FEEB000808C8C /* CoreFoundation.framework in Frameworks */,
-				F8487324191FEEB000808C8C /* CoreLocation.framework in Frameworks */,
 				F8487316191FEEB000808C8C /* MobileCoreServices.framework in Frameworks */,
-				F8487328191FEEB000808C8C /* CoreVideo.framework in Frameworks */,
 				F848731E191FEEB000808C8C /* CFNetwork.framework in Frameworks */,
 				F8487314191FEEB000808C8C /* UIKit.framework in Frameworks */,
 				F8487318191FEEB000808C8C /* CoreGraphics.framework in Frameworks */,
-				F8487322191FEEB000808C8C /* OpenGLES.framework in Frameworks */,
 				F848731C191FEEB000808C8C /* AudioToolbox.framework in Frameworks */,
 				F848731A191FEEB000808C8C /* SystemConfiguration.framework in Frameworks */,
 				F8487310191FEEB000808C8C /* Foundation.framework in Frameworks */,
@@ -114,7 +102,6 @@
 		F848730E191FEEB000808C8C /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				F848730F191FEEB000808C8C /* Foundation.framework */,
 				F8487311191FEEB000808C8C /* CoreFoundation.framework */,
 				F8487313191FEEB000808C8C /* UIKit.framework */,
 				F8487315191FEEB000808C8C /* MobileCoreServices.framework */,
@@ -122,11 +109,8 @@
 				F8487319191FEEB000808C8C /* SystemConfiguration.framework */,
 				F848731B191FEEB000808C8C /* AudioToolbox.framework */,
 				F848731D191FEEB000808C8C /* CFNetwork.framework */,
+				F848730F191FEEB000808C8C /* Foundation.framework */,
 				F848731F191FEEB000808C8C /* QuartzCore.framework */,
-				F8487321191FEEB000808C8C /* OpenGLES.framework */,
-				F8487323191FEEB000808C8C /* CoreLocation.framework */,
-				F8487325191FEEB000808C8C /* CoreMedia.framework */,
-				F8487327191FEEB000808C8C /* CoreVideo.framework */,
 				F8487329191FEEB000808C8C /* AVFoundation.framework */,
 				F848732B191FEEB000808C8C /* Security.framework */,
 			);
@@ -251,25 +235,27 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
-				CLANG_ENABLE_OBJC_ARC = NO;
+				ARCHS = "$(ARCHS_STANDARD)";
+				CLANG_ENABLE_OBJC_ARC = YES;
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_ENABLE_CPP_EXCEPTIONS = NO;
-				GCC_ENABLE_OBJC_EXCEPTIONS = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
 				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
-				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_VERSION = "";
 				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				ONLY_ACTIVE_ARCH = NO;
 				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/include/";
 			};
 			name = Debug;
@@ -278,46 +264,59 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
-				CLANG_ENABLE_OBJC_ARC = NO;
+				ARCHS = "$(ARCHS_STANDARD)";
+				CLANG_ENABLE_OBJC_ARC = YES;
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_ENABLE_CPP_EXCEPTIONS = NO;
-				GCC_ENABLE_OBJC_EXCEPTIONS = NO;
-				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = "";
 				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				ONLY_ACTIVE_ARCH = NO;
 				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "/Users/jianzi0307/Documents/工作/AlanoGamesStudio/Rating/NativeIOS/include/";
 				VALIDATE_PRODUCT = YES;
+				VALID_ARCHS = "arm64 armv7 armv7s";
 			};
 			name = Release;
 		};
 		F8487337191FEEB000808C8C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = YES;
 				DSTROOT = /tmp/Rating.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Rating/Rating-Prefix.pch";
 				GCC_VERSION = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
 		F8487338191FEEB000808C8C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = YES;
 				DSTROOT = /tmp/Rating.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Rating/Rating-Prefix.pch";
 				GCC_VERSION = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};

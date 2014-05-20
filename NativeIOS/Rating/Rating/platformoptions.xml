@@ -1,8 +1,9 @@
 <platform xmlns="http://ns.adobe.com/air/extension/3.1">
     <description >Rating</description> 
     <copyright>2014 AlanoGame Studio</copyright>
-    <linkerOptions> 
-<!--        <option>-framework CoreMotion</option> -->
+    <linkerOptions>
+        <option>-ios_version_min 4.3</option>
+<!--    <option>-framework CoreMotion</option> -->
     </linkerOptions> 
 </platform>
 
